@@ -1,0 +1,93 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+
+
+h1 {
+    margin: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cronometro {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#image {
+    margin: auto;
+    width: 100 vh; 
+    background-color: blue;    
+    background-image: url(transito.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#semafaro {
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.644);
+    border-style: solid;
+    height: 400px;
+    width: 200px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.verde{
+
+    background-color:rgb(0, 189, 94);
+    border: solid ;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top : 80%;
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 50%;
+
+}
+.amarelo {
+
+    background-color: rgba(255, 255, 0, 0.897);
+    border: solid;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top : 50%;
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 50%;
+}
+
+
+
+
+
+
+.vermelho {
+
+    background-color: red;
+    border: solid ;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top : 20%;
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 50%;
+
+}
