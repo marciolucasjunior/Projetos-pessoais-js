@@ -6,7 +6,7 @@
 
 <h1>Semáforo com Javascript!!! </h1>
 
- <a href="https://marciolucasjunior.github.io/Projetos-pessoais-js/">acesse o projeto clicando aqui  </a>
+ <a href="https://marciolucasjunior.github.io/Projetos-pessoais-js/Semafaro">acesse o projeto clicando aqui  </a>
 
 <h1>Tecnologias utilizadas </h1>
  HTML /CSS / JAVASCRIPT
